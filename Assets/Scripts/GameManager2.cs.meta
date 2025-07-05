@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0b056e5f57e7b4419e648bb97e7dbee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCameraPrefab: {fileID: 8952099787863356757, guid: 8eb554e2999588d48a7612b18ec8877f, type: 3}
+  - pilotoPrefab: {fileID: 7941571593453654278, guid: e527ce14275f386489ea35437e74fbad, type: 3}
+  - armeroPrefab: {fileID: 6756419891518576168, guid: 92a6fba86e0c27144b52365162d80475, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
